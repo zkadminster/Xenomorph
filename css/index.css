@@ -50,7 +50,7 @@ button:hover{
     border-color: rgb(100, 165, 3);
 
 }
-@media(max-width :700px) {
+@media(max-width :950px) {
     body{
         background-image: url("../img/Fondo\ 1.0.jpg");
         .titulos{
